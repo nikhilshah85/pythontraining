@@ -1,0 +1,43 @@
+Task:
+
+from the below nested list, display the result in below format
+	departments = [["IT","Nikhil","Sonia","Karan"],["HR","Rohan","Sohan","Mohan"],["Accounts","Abhay","Mohit","Sumit"]]
+
+	IT
+	  Nikhil
+	  Sonia
+	  Karan
+	HR
+	  Rohan
+	  Sohan
+	  Mohan
+	Accounts
+	  Abhay
+	  Mohit
+	  Sumit
+-----------------------------------------------------------------------------
+Task 2:
+	in a new file, 2_list_task2.py
+		have a variable - guestlist
+			guestList= []; 
+				empty list, this is valid syntax
+		
+	When the program starts, give the below option
+		1. View Guest List (show the list, 1 name on 1 line, new name next line, vertical format)
+		2. Add Guest (ask user new name, and add that to list)
+		3. Remove Guest (ask the name, remove the name from list)
+		4. Total Guest (show total, use the count method, dont loop through)
+		5. Exit 
+	program will keep running until user says exit
+
+
+
+
+
+
+
+
+
+
+
+		

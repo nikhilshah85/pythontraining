@@ -1,0 +1,47 @@
+Introduction to Python -
+	Who introduced python to the world
+	Tools for python - Python runtime - developed through notepad
+	variables 
+	conditions 
+	loops
+	function
+
+	Data Structures - Collections
+			  4 types of collection - they are very easy to code
+			expertise lies chooseing the right collection - decision makeing
+			knowing the differences between the 4 of them
+
+		collection -
+		1.	whn you want to store multiple values in a single variable
+			eg. Store 52 names in a program
+
+			name1  ="Nikhil"
+			name2 = "Senthin"
+		 also, we should be able to add members at runtime, remove, edit etc
+		
+		2. there are 4 types of collections in python
+			a. list[] 
+				friends = ["Rohit","Akshay","Suman","Akshay"]
+					- orders values - Indexed Collection
+					- flexible for modification
+					- can have duplicatte values
+			b. Tuple()
+				friends = ("Roshni","Shilpa","Mohini")
+					unchangable (but has methods for add and remove)
+			c. Set
+			d. Dictinary 
+			
+
+					
+
+		
+
+
+
+
+
+
+
+			
+
+		
